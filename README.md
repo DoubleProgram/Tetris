@@ -1,5 +1,4 @@
 # Tetris
-Written using OpenTK
 
 This is an old Project of mine so I am not 100% sure what you will need in order to successfully compile this application.
 Here is what I think you need (libraries):
